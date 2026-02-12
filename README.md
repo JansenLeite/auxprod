@@ -7,6 +7,6 @@
 
 **Orientações:**
 
-Acesso o link [clicnado aqui](https://forms.office.com/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUMDVMTlQ2RVo1Rkc1T1lOUjA3TUZVRThNUS4u)
+Acesso o link [clicando aqui](https://forms.office.com/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUMDVMTlQ2RVo1Rkc1T1lOUjA3TUZVRThNUS4u)
 
-Deverá ser realiado em Dupla utiliando os conhecimentos adiquiridos no Módulo de Software e Material disponivel no GitHUB [Clique aqui para acessar o materia de apoio!](https://github.com/JansenLeite/auxprod/blob/main/AUXP_03_01_Introdu%C3%A7%C3%A3o_Software.pdf) 
+Deverá ser realizado em Dupla utiliando os conhecimentos adiquiridos no Módulo de Software e Material disponivel no GitHUB [Clique aqui para acessar o materia de apoio!](https://github.com/JansenLeite/auxprod/blob/main/AUXP_03_01_Introdu%C3%A7%C3%A3o_Software.pdf) 
