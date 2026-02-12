@@ -1,7 +1,7 @@
 # Auxiliar de Produção
 
 
-# AAtividade Avaliativa 02 - SOFTWARE
+# Atividade Avaliativa 02 - SOFTWARE
 
 **Data:** 12/02/2026 dás 15H00 as 17H00
 
