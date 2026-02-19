@@ -3,7 +3,7 @@
 
 # Atividade Avaliativa 02 - SOFTWARE
 
-**Data:** 12/02/2026 dás 15H00 as 17H00
+**Data:** 19/02/2026 dás 13H15 as 15H00
 
 **Orientações:**
 
