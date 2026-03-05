@@ -53,39 +53,39 @@ Wallas Henrique<br /><br />
 
 Grupo 3: Falcon (Tipos de Software Maliciosos (Malware))
 -----------------------------------
-Iasmin Silva
-João Gabriel
-Guilherme Silva (L)
+Iasmin Silva<br />
+João Gabriel<br />
+Guilherme Silva (L)<br /><br />
 
 Grupo 4: Dreams (Golpes Digitais)
 -----------------------------------
-Adriely Eduarda (L)
-Diogo Vinicius
-Giovanna Maria
-Nicolly Silva
+Adriely Eduarda (L)<br />
+Diogo Vinicius<br />
+Giovanna Maria<br />
+Nicolly Silva<br />
 
 Grupo 5: Viper (Golpes Digitais)
 -----------------------------------
-Gustavo Silva (L)
-Pedro Henrique
+Gustavo Silva (L)<br />
+Pedro Henrique<br /><br />
 
 Grupo 6: Cavalo de Tróia (LGPD)
 -----------------------------------
-Náthali Silva (L)
-Emilly Larissa
-Yasmin Rafaela
-Murilo Prado
+Náthali Silva (L)<br />
+Emilly Larissa<br />
+Yasmin Rafaela<br />
+Murilo Prado<br /><br />
 
 Grupo 7: Tropa dos 7 (LGPD)
 -----------------------------------
-Kaio Renaldi (L)
-Gian Vitor
-Luiz Miguel
+Kaio Renaldi (L)<br />
+Gian Vitor<br />
+Luiz Miguel<br /><br />
 
 Grupo 8: Mag 3 (Tipos de Software Maliciosos (Malware))
 -----------------------------------
-Laiane Gerônimo (L)
-Brenda
-Iasmin Manuely
+Laiane Gerônimo (L)<br />
+Brenda<br />
+Iasmin Manuely<br /><br />
 
 
