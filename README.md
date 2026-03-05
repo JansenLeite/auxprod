@@ -26,7 +26,7 @@ Deverá ser realizado em Dupla utiliando os conhecimentos adiquiridos no Módulo
 
 # Atividade Avaliativa 03 - Segurança Digital
 
-**Data:** 05/02/2026 dás '13H00 as 16H45
+**Data:** 05/03/2026 dás 13H30 as 16:45
 
 **Orientações:**
 
