@@ -75,7 +75,7 @@ Pedro Henrique<br /><br />
 Grupo 6: Cavalo de Tróia<br />
 **Tema:** (LGPD)
 -----------------------------------
-Náthali Silva (L)<br />
+Náthali Silva (Líder)<br />
 Emilly Larissa<br />
 Yasmin Rafaela<br />
 Murilo Prado<br /><br />
@@ -83,14 +83,14 @@ Murilo Prado<br /><br />
 Grupo 7: Tropa dos 7<br />
 **Tema:** LGPD
 -----------------------------------
-Kaio Renaldi (L)<br />
+Kaio Renaldi (Líder)<br />
 Gian Vitor<br />
 Luiz Miguel<br /><br />
 
 Grupo 8: Mag 3
 **Tema:** Tipos de Software Maliciosos (Malware)
 -----------------------------------
-Laiane Gerônimo (L)<br />
+Laiane Gerônimo (Líder)<br />
 Brenda<br />
 Iasmin Manuely<br /><br />
 
