@@ -39,7 +39,7 @@ Deverá ser realizado em Grupo utiliando os conhecimentos adiquiridos no Seguran
 Grupo 1: Os 3 mosqueteiros<br />
 **Tema:** Tipos de Software Maliciosos (Malware)
 -----------------------------------
-Hellen Fernandes (L)<br />
+Hellen Fernandes (Líder)<br />
 Maria Eduarda<br />
 Bruno Henrique<br /><br />
 
@@ -47,42 +47,48 @@ Bruno Henrique<br /><br />
 Grupo 2: Os rasgatanga's<br />
 **Tema:** (Golpes Digitais)
 -----------------------------------
-Leandro Carvalho (L)<br />
+Leandro Carvalho (Líder)<br />
 Marcela Bianchi<br />
 Wallas Henrique<br /><br />
 
-Grupo 3: Falcon (Tipos de Software Maliciosos (Malware))
+Grupo 3: Falcon<br />
+**Tema:** Tipos de Software Maliciosos (Malware)
 -----------------------------------
 Iasmin Silva<br />
 João Gabriel<br />
-Guilherme Silva (L)<br /><br />
+Guilherme Silva (Líder)<br /><br />
 
-Grupo 4: Dreams (Golpes Digitais)
+Grupo 4: Dreams<br />
+**Tema:** Golpes Digitais
 -----------------------------------
-Adriely Eduarda (L)<br />
+Adriely Eduarda (Líder)<br />
 Diogo Vinicius<br />
 Giovanna Maria<br />
-Nicolly Silva<br />
+Nicolly Silva<br /><br />
 
-Grupo 5: Viper (Golpes Digitais)
+Grupo 5: Viper<br />
+**Tema:** Golpes Digitais
 -----------------------------------
-Gustavo Silva (L)<br />
+Gustavo Silva (Líder)<br />
 Pedro Henrique<br /><br />
 
-Grupo 6: Cavalo de Tróia (LGPD)
+Grupo 6: Cavalo de Tróia<br />
+**Tema:** (LGPD)
 -----------------------------------
 Náthali Silva (L)<br />
 Emilly Larissa<br />
 Yasmin Rafaela<br />
 Murilo Prado<br /><br />
 
-Grupo 7: Tropa dos 7 (LGPD)
+Grupo 7: Tropa dos 7<br />
+**Tema:** LGPD
 -----------------------------------
 Kaio Renaldi (L)<br />
 Gian Vitor<br />
 Luiz Miguel<br /><br />
 
-Grupo 8: Mag 3 (Tipos de Software Maliciosos (Malware))
+Grupo 8: Mag 3
+**Tema:** Tipos de Software Maliciosos (Malware)
 -----------------------------------
 Laiane Gerônimo (L)<br />
 Brenda<br />
