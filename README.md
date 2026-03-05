@@ -36,18 +36,20 @@ Deverá ser realizado em Grupo utiliando os conhecimentos adiquiridos no Seguran
 
 # Definição dos Grupos:
 
-Grupo 1: Os 3 mosqueteiros (Tipos de Software Maliciosos (Malware))
+Grupo 1: Os 3 mosqueteiros<br />
+**Tema:** Tipos de Software Maliciosos (Malware)
 -----------------------------------
-Hellen Fernandes (L)
-Maria Eduarda
-Bruno Henrique
+Hellen Fernandes (L)<br />
+Maria Eduarda<br />
+Bruno Henrique<br /><br />
 
 
-Grupo 2: Os rasgatanga's (Golpes Digitais)
+Grupo 2: Os rasgatanga's<br />
+**Tema:** (Golpes Digitais)
 -----------------------------------
-Leandro Carvalho (L)
-Marcela Bianchi
-Wallas Henrique
+Leandro Carvalho (L)<br />
+Marcela Bianchi<br />
+Wallas Henrique<br /><br />
 
 Grupo 3: Falcon (Tipos de Software Maliciosos (Malware))
 -----------------------------------
